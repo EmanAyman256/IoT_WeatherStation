@@ -1,0 +1,14 @@
+192.168.151.49
+BMP180 is Starting..
+Humidity is :
+54.00
+Tempreture is :
+23.10
+ C
+ Pressure is : 864.32 mb, 25.53 inHg
+ Altitude is : 1655 meters, 5430 Feet
+> C: Wait for NTP server time synching
+> C: Wait for NTP server time synching
+> C: Wait for NTP server time synching
+> C: Wait for NTP server time synching
+> C: Wait for NTP server time synching
